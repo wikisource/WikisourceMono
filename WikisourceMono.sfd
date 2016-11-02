@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: DPCustomMono2
-FullName: DPCustomMono2
-FamilyName: DPCustomMono2
+FontName: WikisourceMono
+FullName: WikisourceMono
+FamilyName: WikisourceMono
 Weight: Book
-Copyright: Copyright (c) 2003 by Distributed Proofreaders. All Rights Reserved.
-Version: 2.01 Aug 13, 2009
+Copyright: Copyright (c) 2003 by Distributed Proofreaders. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc. http://www.bitstream.com Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license ("Fonts") and associated documentation files (the "Font Software"), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions: The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces. The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words "Bitstream" or the word "Vera". This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the "Bitstream Vera" names. The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself. THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. 
+Version: 3.0.0
 ItalicAngle: 0
 UnderlinePosition: -563
 UnderlineWidth: 141
@@ -14,13 +14,13 @@ sfntRevision: 0x0002028f
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 589 1003958833 3102748]
+XUID: [1021 589 1003958833 10343320]
 FSType: 4
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1051983914
-ModificationTime: 1250159784
+ModificationTime: 1478056301
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,6 +54,7 @@ OS2FamilyClass: 2050
 OS2Vendor: 'DP  '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 800000af.1000204a.00000000.00000000
+MarkAttachClasses: 1
 DEI: 91125
 TtTable: prep
 PUSHW_2
@@ -2233,7 +2234,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Regular" "FontForge 2.0 : DPCustomMono2 : 13-8-2009" "" "" "" "Bitstream Vera is a trademark of Bitstream, Inc." "Bitstream Inc." "" "Custom DP font with exaggerated clarity to aid proofreading" "http://www.bitstream.com" "" "Copyright (c) 2003 by Bitstream, Inc.+AA0ACgAA-All Rights Reserved.+AA0ACgAA-Bitstream Vera is a trademark of Bitstream, Inc.+AA0ACgANAAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AA0ACgANAAoA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AA0ACgANAAoA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AA0ACgANAAoA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AA0ACgANAAoA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AA0ACgANAAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AA0ACgANAAoA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org." 
+LangName: 1033 "" "" "Regular" "" "" "" "" "Bitstream Vera is a trademark of Bitstream, Inc." "Bitstream Inc." "" "Custom DP font with exaggerated clarity to aid proofreading" "http://www.bitstream.com" "" "Copyright (c) 2003 by Bitstream, Inc.+AA0ACgAA-All Rights Reserved.+AA0ACgAA-Bitstream Vera is a trademark of Bitstream, Inc.+AA0ACgANAAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AA0ACgANAAoA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AA0ACgANAAoA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AA0ACgANAAoA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AA0ACgANAAoA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AA0ACgANAAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AA0ACgANAAoA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org." 
 GaspTable: 2 8 2 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -2242,6 +2243,8 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 60 30 7
+BeginPrivate: 0
+EndPrivate
 BeginChars: 65549 269
 
 StartChar: .notdef
